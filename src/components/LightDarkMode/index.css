@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.bg_container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.first_view_container {
+  color: white;
+  background-color: black;
+  padding: 20px;
+  border: solid 1px black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.second_view_container {
+  background-color: #ffffff;
+  color: black;
+  padding: 20px;
+  border: solid 1px black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
